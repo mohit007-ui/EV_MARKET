@@ -109,6 +109,7 @@ Cities in North America & Europe show highest EV concentration.
 EV range and adoption have drastically increased over the last decade.
 
 🖼️ Dashboard Preview
+
 ![EV_Market](https://github.com/mohit007-ui/EV_MARKET/blob/main/EV_MARKET_DASHBOARD.png)
 
 📂 Repository Structure
