@@ -7,7 +7,9 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+
 🧩 Business Problem Statement
+
 
 The global shift toward electric mobility is accelerating, but organizations still struggle to understand how big the EV market truly is, where the highest demand lies, and which segments offer the strongest growth potential.
 Fragmented data sources, regional inconsistencies, and constantly evolving EV technologies make strategic decision-making challenging.
@@ -23,6 +25,7 @@ This project addresses that challenge by analyzing EV market size and growth tre
 💼 Where are the strongest opportunities for manufacturers and investors?
 
 Through structured data analysis using Python, SQL, and Power BI, this project provides clear, data-driven insights to support business decisions in the rapidly growing EV ecosystem.
+
 
 
 📘 Project Overview
