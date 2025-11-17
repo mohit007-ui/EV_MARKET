@@ -24,7 +24,7 @@ SQL (MySQL) → Data querying & transformations
 
 Power BI → Data modeling & dashboard creation
 
-Dataset → EV market dataset (sourced from Medium/Kaggle)
+Dataset → EV market dataset (sourced from Medium)
 
 🗂️ Project Workflow
 1️⃣ Python – Initial Data Preparation
