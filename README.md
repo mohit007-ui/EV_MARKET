@@ -25,7 +25,9 @@ Power BI – Data modeling, dashboards & KPIs
 
 Dataset Source – EV Market Dataset (Medium)
 
+
 🗂️ Project Workflow
+
 1️⃣ Python – Data Preparation
 
 Loaded the EV dataset
@@ -35,6 +37,7 @@ Cleaned null values & corrected data types
 Transformed date/year fields
 
 Conducted initial exploratory analysis
+
 
 2️⃣ SQL – Data Analytics
 
@@ -49,6 +52,7 @@ Manufacturer-wise vehicle counts
 Year-over-year EV growth
 
 Aggregations & grouping for deeper insight
+
 
 3️⃣ Power BI – Dashboard Development
 
@@ -66,7 +70,9 @@ Geographical Map – City-level EV distribution
 
 Filters/Slicers – Model year & manufacturer selection
 
+
 🎯 Key Insights
+
 
 BEVs significantly dominate the market over PHEVs.
 
@@ -79,6 +85,7 @@ Porsche and MINI show strong contributions in specific regions.
 North American & European cities lead in EV density.
 
 Electric range has steadily improved year after year.
+
 
 🖼️ Dashboard Preview
 
@@ -97,8 +104,13 @@ EV-MARKET-ANALYSIS/
 🚀 Conclusion
 
 This project demonstrates complete data engineering + analytics + visualization expertise, including:
+
 ✔ Dataset cleaning
+
 ✔ SQL-based analysis
+
 ✔ Trend identification
+
 ✔ KPI creation
+
 ✔ Building a professional Power BI dashboard
