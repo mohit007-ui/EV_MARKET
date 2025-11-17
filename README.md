@@ -1,112 +1,84 @@
 # EV_MARKET
 
-⚡ Electric Vehicle (EV) Market Analysis Dashboard
+🚗⚡ EV_MARKET – Electric Vehicle (EV) Market Analysis Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+
 📘 Project Overview
 
-This project presents an interactive Electric Vehicle (EV) Market Analysis Dashboard built using Power BI.
-The goal is to analyze global EV adoption, identify top EV models, study manufacturer contributions, examine BEV/PHEV trends, and understand the evolution of Electric Vehicles across years and locations.
-
-The dashboard combines Python, SQL, and Power BI to provide end-to-end data analysis — from preprocessing to visualization — helping users understand key market insights in the fast-growing EV industry.
+This project provides a complete end-to-end Electric Vehicle (EV) Market Analysis Dashboard built using Python, SQL, and Power BI.
+It highlights global EV trends, top manufacturers, BEV/PHEV adoption patterns, and city-level EV distribution — helping understand how the EV market has evolved over the past decade.
 
 🧰 Tech Stack
 
-Python → Data cleaning, preprocessing & EDA
+Python – Data cleaning & preparation
 
-Pandas, NumPy → Exploratory analysis
+Pandas, NumPy – Exploratory data analysis
 
-SQL (MySQL) → Data querying & transformations
+SQL (MySQL) – Data querying & aggregations
 
-Power BI → Data modeling & dashboard creation
+Power BI – Data modeling, dashboards & KPIs
 
-Dataset → EV market dataset (sourced from Medium)
+Dataset Source – EV Market Dataset (Medium)
 
 🗂️ Project Workflow
-
-1️⃣ Python – Initial Data Preparation
+1️⃣ Python – Data Preparation
 
 Loaded the EV dataset
 
-Cleaned missing values
+Cleaned null values & corrected data types
 
-Converted date/year columns
+Transformed date/year fields
 
-Performed initial analysis.
+Conducted initial exploratory analysis
 
-2️⃣ SQL – Structured Analysis
+2️⃣ SQL – Data Analytics
 
-Created database & tables
+Performed structured analysis using SQL queries for:
 
-Queried metrics such as:
-
-BEV vs PHEV counts
-
-Top models
-
-Manufacturer contributions
-
-Year-wise EV growth
-
-Used grouping & aggregation for insights
-
-3️⃣ Power BI – Dashboard Development
-
-Built KPIs for:
-
-Total Vehicles
-
-Average Electric Range
-
-Total BEV
-
-Total PHEV
-
-Designed charts for:
+BEV vs PHEV distribution
 
 Top EV models
 
-Top EV manufacturers
+Manufacturer-wise vehicle counts
 
-EV trend over years
+Year-over-year EV growth
 
-EV distribution by city (map)
+Aggregations & grouping for deeper insight
 
-Added slicers for model year & manufacturer
+3️⃣ Power BI – Dashboard Development
 
-⭐ Key Features
+Created an interactive dashboard with:
 
-⚡ EV KPI Metrics: Total Vehicles, BEV, PHEV, Avg. Electric Range
+KPI Cards – Total Vehicles, Total BEV, Total PHEV, Avg Electric Range
 
-📅 EV Trend Over Years: Growth in BEV & PHEV adoption
+Trend Analysis – Year-wise BEV & PHEV growth
 
-🚗 Top EV Models: Model Y, Model 3, Leaf, Model S, Bolt EV, Model X
+Top EV Models – Model Y, Model 3, Leaf, Model S, Bolt EV
 
-🏭 Top 5 EV Manufacturers: Porsche, MINI, Dodge, Smart, Alfa Romeo
+Top Manufacturers – Porsche, MINI, Dodge, Smart
 
-🗺️ Global EV Distribution: Interactive map showing EV count by city
+Geographical Map – City-level EV distribution
 
-🎛️ Slicers & Filters: Filter by model year & EV type
+Filters/Slicers – Model year & manufacturer selection
 
-🎨 Clean UI layout built with sector-aligned visuals
+🎯 Key Insights
 
-🎯 Insights Summary
+BEVs significantly dominate the market over PHEVs.
 
-Model Y and Model 3 dominate EV adoption with highest vehicle counts.
+Model Y and Model 3 are the highest-selling EVs globally.
 
-BEVs significantly outnumber PHEVs, reflecting global EV market shift.
+EV adoption surged sharply after 2015.
 
-EV adoption saw its biggest spike after 2015, aligning with global EV policy boosts.
+Porsche and MINI show strong contributions in specific regions.
 
-Porsche and Mini represent major contributions among manufacturers.
+North American & European cities lead in EV density.
 
-Cities in North America & Europe show highest EV concentration.
-
-EV range and adoption have drastically increased over the last decade.
+Electric range has steadily improved year after year.
 
 🖼️ Dashboard Preview
 
@@ -116,20 +88,17 @@ EV range and adoption have drastically increased over the last decade.
 
 EV-MARKET-ANALYSIS/
 │
+├── EV_MARKET.sql                
+├── EV_MARKET_PROJECT.ipynb       
+├── EV_MARKET_DASHBOARD.png     
+└── README.md                 
 
-├── EV_MARKET.sql                 
-│
-├── EV_MARKET_PROJECT.ipynb     
-│
-├── EV_MARKET_DASHBOARD.png       
-│
-└── README.md      
 
 🚀 Conclusion
 
-This project showcases end-to-end analytics skills:
-✔ Data cleaning
-✔ SQL querying
+This project demonstrates complete data engineering + analytics + visualization expertise, including:
+✔ Dataset cleaning
+✔ SQL-based analysis
+✔ Trend identification
 ✔ KPI creation
-✔ Visual storytelling
-✔ Market trend analysis
+✔ Building a professional Power BI dashboard
