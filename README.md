@@ -15,27 +15,18 @@ The goal is to analyze global EV adoption, identify top EV models, study manufac
 The dashboard combines Python, SQL, and Power BI to provide end-to-end data analysis — from preprocessing to visualization — helping users understand key market insights in the fast-growing EV industry.
 
 🧰 Tech Stack
-
 Python → Data cleaning, preprocessing & EDA
-
 Pandas, NumPy → Exploratory analysis
-
 SQL (MySQL) → Data querying & transformations
-
 Power BI → Data modeling & dashboard creation
-
 Dataset → EV market dataset (sourced from Medium)
 
 🗂️ Project Workflow
 1️⃣ Python – Initial Data Preparation
-
 Loaded the EV dataset
-
 Cleaned missing values
-
 Converted date/year columns
-
-Performed initial analysis (counts, distributions, model popularity)
+Performed initial analysis.
 
 2️⃣ SQL – Structured Analysis
 
