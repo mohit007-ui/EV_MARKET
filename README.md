@@ -112,12 +112,15 @@ EV range and adoption have drastically increased over the last decade.
 
 📂 Repository Structure
 
-EV-Market-Analysis/
+EV-MARKET-ANALYSIS/
 │
-├── EV_MARKET.pbit
-├── EV_MARKET.sql
-├── EV_MARKET_DASHBOARD.png
-└── README.md
+├── EV_MARKET.sql                 
+│
+├── EV_MARKET_PROJECT.ipynb     
+│
+├── EV_MARKET_DASHBOARD.png       
+│
+└── README.md      
 
 🚀 Conclusion
 
